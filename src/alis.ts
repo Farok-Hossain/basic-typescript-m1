@@ -27,8 +27,8 @@ const courseName: CourseNameType = "Next Level Web Developemet";
 const calculate = (number1: number, number2: number) => {
   return number1 + number2;
 };
-const sum = calculate(20, 25);
-console.log(sum);
+const sum2 = calculate(20, 25);
+console.log(sum2);
 
 // const calculate2 = (
 //   number3: number,
